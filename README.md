@@ -37,4 +37,7 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Feel free to reach out or check out my projects. Let’s make the web (and games!) even more awesome. 🚀
