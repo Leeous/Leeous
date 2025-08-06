@@ -38,6 +38,15 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   5 hrs 43 mins   ████████████████████▓░░░░   82.07 %
+SCSS         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+```
+
 <!--END_SECTION:waka-->
 
 Feel free to reach out or check out my projects. Let’s make the web (and games!) even more awesome. 🚀
