@@ -6,7 +6,7 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 - 💻 Full Stack Web Dev / Designer
 - 🧠 Quick learner (80 WPM typist!)
 - 🎮 Mod Developer & Game Server Hosting Enthusiast
-- 🌱 Recently dove back into web dev—now loving **React** & **TypeScript**!
+- 🌱 Recently dove back into web dev, loving **React** & **TypeScript**!
 - 🗣️ Always up for a chat about tech, learning, or FOSS
 
 ---
