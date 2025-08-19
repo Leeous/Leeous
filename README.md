@@ -25,10 +25,10 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 ### 🌟 Featured Projects
 
 #### [BCBS Explorer](https://github.com/Leeous/bcbs-explorer)
-> Explore, analyze, and visualize Blue Cross Blue Shield plan-data with an intuitive, open-source web interface.
+> A browser (Chrome, Firefox, etc.) extension that assists Healthcare providers with BCBS carriers. 
 
-#### [gmod-addon-tool](https://github.com/Leeous/gmod-addon-tool)
-> Streamline Garry’s Mod addon publishing.
+#### [plasma-chatgpt](https://github.com/Leeous/plasma-chatgpt)
+> A Plasma 6 widget that allows you to access ChatGPT directly from your taskbar. 
 
 ---
 
@@ -36,7 +36,7 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 
 - Personal Site: [leeous.com](https://leeous.com/)
 - Bluesky: [bsky.app/profile/leeous.com](https://bsky.app/profile/leeous.com)
-- LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/)
+- LinkedIn: [linkedin.com/in/Leeous](https://www.linkedin.com/in/Leeous)
 
 ---
 
@@ -51,4 +51,4 @@ SCSS         1 min           ██▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-Feel free to reach out or check out my projects. Let’s make the web (and games!) even more awesome. 🚀
+Feel free to reach out or check out my projects. Let’s make something awesome. 
