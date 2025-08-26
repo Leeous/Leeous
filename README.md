@@ -24,7 +24,7 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 
 ### 🌟 Featured Projects
 
-#### [BCBS Explorer](https://github.com/Leeous/bcbs-explorer)
+#### [bcbs-explorer](https://github.com/Leeous/bcbs-explorer)
 > A browser (Chrome, Firefox, etc.) extension that assists Healthcare providers with BCBS carriers. 
 
 #### [plasma-chatgpt](https://github.com/Leeous/plasma-chatgpt)
