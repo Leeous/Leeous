@@ -43,8 +43,7 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-QML          25 mins         ████████████████████░░░░░   79.85 %
-JavaScript   6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
