@@ -43,7 +43,9 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SCSS         1 min           ██████████████▒░░░░░░░░░░   56.79 %
+JSON         0 secs          ████████▓░░░░░░░░░░░░░░░░   34.79 %
+TypeScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
 ```
 
 <!--END_SECTION:waka-->
