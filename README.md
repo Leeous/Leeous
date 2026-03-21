@@ -43,11 +43,11 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS         54 mins               ████████████░░░░░░░░░░░░░   48.58 %
-PHP          37 mins               ████████▒░░░░░░░░░░░░░░░░   33.60 %
-CSS          7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-TypeScript   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-QML          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+SCSS         55 mins               ████████████▒░░░░░░░░░░░░   49.10 %
+PHP          37 mins               ████████▒░░░░░░░░░░░░░░░░   33.26 %
+CSS          7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+TypeScript   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+QML          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
