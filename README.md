@@ -25,10 +25,7 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 ### 🌟 Featured Projects
 
 #### [bcbs-explorer](https://github.com/Leeous/bcbs-explorer)
-> A browser (Chrome, Firefox, etc.) extension that assists Healthcare providers with BCBS carriers. 
-
-#### [plasma-chatgpt](https://github.com/Leeous/plasma-chatgpt)
-> A Plasma 6 widget that allows you to access ChatGPT directly from your taskbar. 
+> A browser (Chrome, Firefox, etc.) extension that assists Healthcare providers with BCBS carriers.
 
 ---
 
