@@ -24,6 +24,9 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 
 ### 🌟 Featured Projects
 
+#### [TrashCompactor](https://github.com/Leeous/TrashCompactor)
+>  A reimaging of the Trash Compactor gamemode from Garry's Mod in Source 2. 
+
 #### [bcbs-explorer](https://github.com/Leeous/bcbs-explorer)
 > A browser (Chrome, Firefox, etc.) extension that assists Healthcare providers with BCBS carriers.
 
