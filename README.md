@@ -43,11 +43,11 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-C#              2 hrs 45 mins         █████████████░░░░░░░░░░░░   51.83 %
-JavaScript      2 hrs 28 mins         ███████████▓░░░░░░░░░░░░░   46.47 %
-Markdown        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Other           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-JSON            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+C#              2 hrs 45 mins         ████████████▓░░░░░░░░░░░░   50.38 %
+JavaScript      2 hrs 28 mins         ███████████▒░░░░░░░░░░░░░   45.18 %
+Razor           5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Markdown        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+SCSS            3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
