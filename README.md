@@ -43,11 +43,11 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-C#              1 hr 4 mins           █████████████████████▓░░░   86.99 %
-Razor           5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-SCSS            3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Unity3D Asset   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Other           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C#              1 hr 1 min            █████████████████████▓░░░   86.34 %
+Razor           5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+SCSS            3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Unity3D Asset   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
