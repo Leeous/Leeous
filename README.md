@@ -18,11 +18,13 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 - Web Development & Design (Frontend & Backend)
 - Game Server Hosting & Modding (Garry’s Mod, more)
 - Fast Typing & Rapid Prototyping
-- Learning new tools & frameworks at lightning speed
 
 ---
 
 ### 🌟 Featured Projects
+
+#### [react-ehr-platform](https://github.com/Leeous/react-ehr-platform)
+>  A mock EHR platform
 
 #### [TrashCompactor](https://github.com/Leeous/TrashCompactor)
 >  A reimaging of the Trash Compactor gamemode from Garry's Mod in Source 2. 
