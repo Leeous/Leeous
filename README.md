@@ -1,7 +1,8 @@
 <!--
 hidden: true
 -->
-# hi, my name is leeous 🏳️‍🌈
+## hi, my name is cody<br/><sub>a.k.a leeous</sub>  🏳️‍🌈
+
 
 I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate about crafting beautiful, functional, and open-source web applications. Whether it’s designing sleek interfaces, optimizing game servers, or building mods, I love pushing boundaries and learning new things every day.
 
