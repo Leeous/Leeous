@@ -50,10 +50,7 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         1 hr 17 mins          ████████████████████████░   96.11 %
-TOML         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Rust   38 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
