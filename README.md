@@ -50,11 +50,11 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                12 hrs 51 mins        ██████████████████████▓░░   90.23 %
-YAML                29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Gradle Kotlin DSL   19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Markdown            14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Git Config          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Dart                12 hrs 51 mins        ████████████████████▒░░░░   81.37 %
+TypeScript          1 hr 6 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+YAML                41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Gradle Kotlin DSL   19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Markdown            18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
