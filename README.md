@@ -50,11 +50,11 @@ I'm a talkative, self-taught **Full Stack Web Developer & Designer** passionate 
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                3 hrs 41 mins         ████████████████████▒░░░░   80.84 %
-Lua                 36 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-Markdown            8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Other               6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Mermaid             1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Dart       3 hrs 41 mins         ██████████████████████▒░░   89.96 %
+Lua        15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Other      6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Mermaid    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Markdown   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
